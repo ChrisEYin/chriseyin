@@ -2,24 +2,71 @@
 layout: default
 ---
 
-<h1>Hello.</h1>
+<div>
+  <div id="header">
+    <div id = "photo-container">
+      <a href = "/">
+        <img src = "CircleYin.png" border = "0" id="photo">
+      </a>
+    </div>
+    <div id = "about-text">
+      <p>
+        <h1><b>Herro. I'm Chris Yin.</b></h1>
+      </p>
+      <p>
+        <h4>
+          24 year old startup enthusiast living in <a href = "http://bit.ly/12HjSHB" title = "San Diego" target = "_blank">San Diego, CA</a>.
+          I'm a product manager at <a href = "http://www.coupa.com">Coupa</a>. I'm passionate about startups, web/mobile products, and self improvement.
+        </h4>
+      </p>
+      <div id = "links-container">
+        <a href = "mailto:christopher.e.yin@gmail.com" title = "Gmail" target = "_blank" style = "text-decoration:none;">
+          <img src = "mail.png" border = "0" id = "icon">
+        </a>
+         <a href = "http://bit.ly/12HmPYA" title = "Twitter" target = "_blank" style = "text-decoration:none;">
+          <img src = "twitter.png" border = "0" id = "icon">
+        </a> 
+        <a href = "http://bit.ly/12HmV2v" title = "Quibb" target = "_blank" style = "text-decoration:none;">
+          <img src = "quibb.jpg" border = "0" id = "icon">
+        </a>
+        <a href = "http://b.qr.ae/12HmYeO" title = "Quora" target = "_blank" style = "text-decoration:none;">
+          <img src = "quora.png" border = "0" id = "icon">
+        </a> 
+        <a href = "http://linkd.in/12HmYLM" title = "LinkedIn" target = "_blank" style = "text-decoration:none;">
+          <img src = "linkedin.png" border = "0" id = "icon">
+        </a>
+        <a href = "http://on.fb.me/12Hn1ay" title = "Facebook" target = "_blank" style = "text-decoration:none;">
+          <img src = "facebook.png" border = "0" id = "icon">
+        </a>
+      </div>
+    </div>
+  </div>
+
+<div class = "blog-container">
+
+<hr>
+
+<p><h3>Blog</h3></p>
 
 {% for post in paginator.posts %}
 
 <div class="row-fluid">
-  <div class="span12">
-    <h2>{{ post.title | truncatewords: 10 | capitalize }}</h2>
-    <h4>{{ post.date | date: "%m-%d-%Y" }}</h4>
-    <p>
-      <a href="{{ post.url }}">Read Post</a>
-    </p>
-  </div>
+    <div class = "blog-posts">
+      <h4 class = "muted">
+        {{ post.date | date_to_long_string }}
+      </h4>
+      <h3 id = "date-link-spacing">
+        <a href="{{ post.url }}">{{ post.title | truncatewords: 15 }}</a>
+      </h3>
+    </div>
 </div>
 
 {% endfor %}
 
+</div>
+
 <div class="row-fluid">
-  <div class="span12">
+  <div class = "pagination-container">
     <div class="pagination">
       <ul>
         {% if paginator.previous_page %}
@@ -51,4 +98,6 @@ layout: default
       </ul>
     </div>
   </div>
+</div>
+
 </div>

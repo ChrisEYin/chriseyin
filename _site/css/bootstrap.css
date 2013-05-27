@@ -8,6 +8,81 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
 
+
+.page-container {
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+  margin-top: 5%;
+  /*border:1px solid blue;*/
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#header{
+  /*border:1px solid black;*/
+  font-weight: 300;
+}
+
+#photo-container {
+  position: absolute;
+  /*border:1px solid red;*/
+}
+
+#photo{
+  width:133px;
+}
+
+#about-text{
+  width:80%;
+  margin-left:auto;
+  position: relative;
+  /*border:1px solid blue;*/
+  text-align: left;
+  padding-left: 150px
+}
+
+#links-container{
+  /*border-bottom: 1px solid #ddd;*/
+  max-width:700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#links-container:hover{
+  text-decoration: none;
+}
+
+#icon{
+  width: 25px;
+  padding-right: 15px;
+}
+
+.blog-container{
+  margin-top: 25px;
+}
+
+.blog-posts{
+  /*border:1px solid red;*/
+  margin-left: auto;
+  text-align: left;
+  margin-top: 40px;
+}
+
+#blog-content{
+  text-align: left;
+}
+
+#date-link-spacing{
+  margin-top:-15px;
+  margin-bottom:-10px;
+}
+
+.pagination-container{
+  padding-top: 25px;
+}
+
+/* Start of Boostrap */
+
 .clearfix {
   *zoom: 1;
 }
@@ -39,6 +114,8 @@
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
+
+
 
 article,
 aside,
