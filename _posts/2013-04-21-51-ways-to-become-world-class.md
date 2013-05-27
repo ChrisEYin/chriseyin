@@ -105,7 +105,7 @@ Stumbled across this a few days ago. Really good stuff, so wanted to re-post it.
 
 50. World-Class performers have no plan B. Failure just isn’t an option.
 
-51.You have the power to change the world—one brave act 
+51. You have the power to change the world—one brave act 
 and one person at a time. Please use it.
 
 Originally discovered via a Quora blog, [Musings of a Start-up Guy](http://bit.ly/12JvhH0), which was a re-post of [Robin Sharma’s blog](http://bit.ly/12Jvqu3).
