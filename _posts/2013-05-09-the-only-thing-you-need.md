@@ -3,9 +3,9 @@ title: The Only Thing You Need to Succeed & Be Happy
 layout: post
 ---
 
-Lately, I’ve been driving up to LA more often (I’m in San Diego). I hate the drive, so I usually throw a PandoMonthly talk into my car to help pass time. They’re all spectacular, but one that continues to stick out is the Ben Horowitz chat. The whole thing is awesome — but one quote in particular resonated with me.
+Lately, I’ve been driving up to LA more often (I’m in San Diego). I hate the drive, so I usually throw a [PandoMonthly](http://bit.ly/10cuVtN "PandoMonthly") talk into my car to help pass time. They’re all spectacular, but one that continues to stick out is the [Ben Horowitz chat](http://bit.ly/15q6s8T "Fireside Chat with Ben Horowitz"). The whole thing is awesome — but one quote in particular resonated with me.
 
-“The number one thing we look for in an entrepreneur is courage. Aristotle said that courage is the first virtue. Reason is, if you don’t have that — you don’t have any virtue. All the other things — honesty, integrity — they don’t get activated unless you have courage. It’s easy to be honest — unless it’s going to cost you your job, your marriage, or something else that you care about. Then it’s hard to be honest. So without courage, and you don’t have anything. You’re a zero character person.”
+>“The number one thing we look for in an entrepreneur is courage. Aristotle said that courage is the first virtue. Reason is, if you >don’t have that — you don’t have any virtue. All the other things — honesty, integrity — they don’t get activated unless you have courage. It’s easy to be honest — unless it’s going to cost you your job, your marriage, or something else that you care about. Then it’s hard to be honest. So without courage, and you don’t have anything. You’re a zero character person.”
 
 It struck a chord with me. Courage really is the cornerstone of everything. You always start with raw courage, and build up from there. Without it, your character is ephemeral — constantly fluctuating and adapting to the situation. Sometimes low quality, sometimes medium, probably never high. There’s no concept of yourself. You’re merely trying to fit in instead of injecting your own flavor. Zero character.
 

@@ -70,6 +70,14 @@
 
 #blog-content{
   text-align: left;
+  margin-top: 25px;
+  font-size: 20px;
+  line-height: 1.35;
+}
+
+#blog-content p{
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 #date-link-spacing{
@@ -79,6 +87,26 @@
 
 .pagination-container{
   padding-top: 25px;
+}
+
+.post-header{
+  /*border:1px solid red;*/
+  margin-top: -40px;
+  margin-left: -25px;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.post-header ul li {
+  display: inline-block;
+}
+
+.post-image-container{
+  width: 50px;
+}
+
+.disqus-container{
+  margin-top: 50px;
 }
 
 /* Start of Boostrap */

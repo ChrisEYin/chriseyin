@@ -3,19 +3,19 @@ title: Learning to Fail or Failing to Learn?
 layout: post
 ---
 
-Failure. It’s a daunting thing. People like to talk about celebrating failure. They champion it like it’s something to do.
+Failure. It’s a daunting thing. People like to talk about celebrating failure. They champion it like it’s something to do.  
 
-I think that’s ridiculous.
+I think that’s ridiculous.  
 
 Let me start off — I’m a big proponent of failing fast and making mistakes. I think it’s a great learning tool. As it goes,
 
-“Good judgement comes from experience. And experience comes from bad judgement.”
+> “Good judgement comes from experience. And experience comes from bad judgement.”
 
 But some people talk about failure as if it deserves the merits of success. I don’t agree with that. While I believe failure certainly is a prerequisite to success, I don’t think it is an indicator.
 
 Failing makes me nauseous. It sucks. It’s embarrassing. You fail because you were wrong, because didn’t try hard enough, or because you just aren’t good enough. Failing is a direct reflection of your ability. So when you fail, it means you suck. And that sucks.
 
-I juggle between two thoughts. 1 — I fail because I’m trying new things I’m uncomfortable with, moving forward and learning. 2 — I fail because I suck. I didn’t think it through carefully enough, and it’s a symptom of a bigger problem. To be honest, I’m not sure which is true. (Although I think I know the answer  )
+I juggle between two thoughts. 1 — I fail because I’m trying new things I’m uncomfortable with, moving forward and learning. 2 — I fail because I suck. I didn’t think it through carefully enough, and it’s a symptom of a bigger problem. To be honest, I’m not sure which is true. (Although I think I know the answer ;) )
 
 What I can say is that I learn by doing. Some people like to think through a million scenarios before deciding on anything. I act, and then improve iteratively. To me, thinking and theory are great — but there is no teacher like experience.
 
