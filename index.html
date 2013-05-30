@@ -5,18 +5,18 @@ layout: default
 <div>
   <div id="header">
     <div id = "photo-container">
-      <a href = "/">
+      <a href = "http://www.chrisyin.com">
         <img src = "https://s3.amazonaws.com/www.chrisyin.com/static/CircleYin.png" border = "0" id="photo">
       </a>
     </div>
     <div id = "about-text">
       <p>
-        <h1><b>Herro. I'm Chris Yin.</b></h1>
+        <h1><b>Hey. I'm Chris Yin.</b></h1>
       </p>
       <p>
         <h4>
-          24 year old living in <a href = "http://bit.ly/12HjSHB" title = "San Diego" target = "_blank">San Diego, CA</a>.
-          Product manager at <a href = "http://www.coupa.com" title = "Coupa" target = "_blank">Coupa</a>. Passionate about startups, web/mobile products, and self improvement.
+          24 years old living in San Diego, CA</a>.
+          Product manager at <a href = "http://www.coupa.com" title = "Coupa" target = "_blank">Coupa</a>. Writing about technology, startups, web/mobile products, and self improvement.
         </h4>
       </p>
       <div id = "links-container">
@@ -58,6 +58,9 @@ layout: default
       <h3 id = "date-link-spacing">
         <a href="{{ post.url }}">{{ post.title | truncatewords: 15 }}</a>
       </h3>
+      <h4 id = "summary-container">
+        <P>{{ post.subtitle }}</p>
+      </h4>
     </div>
 </div>
 
@@ -99,5 +102,6 @@ layout: default
     </div>
   </div>
 </div>
-
+  <hr>
+    Built with <a href = "http://jekyllrb.com/" target = "_blank">Jekyll</a>. Hosted on <a href = "http://aws.amazon.com/s3/" target = "blank">Amazon S3</a>.
 </div>

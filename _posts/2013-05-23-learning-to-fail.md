@@ -1,5 +1,6 @@
 ---
-title: Learning to Fail or Failing to Learn?
+title: Are you Learning to Fail or Failing to Learn?
+subtitle: Exploring the ramifications of failing fast and early.
 layout: post
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: The Only Thing You Need to Succeed & Be Happy
+subtitle: The singular trait that is necessary to move forward in your career.
 layout: post
 ---
 

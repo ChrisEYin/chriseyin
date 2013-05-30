@@ -1,5 +1,6 @@
 ---
 title: 51 Ways to Become World Class
+subtitle: Sage advice on how to perfect your life, both profesionally and personally.
 layout: post
 ---
 
