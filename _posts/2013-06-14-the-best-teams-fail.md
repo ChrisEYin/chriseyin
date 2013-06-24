@@ -54,6 +54,8 @@ For new teams, I think the best way to develop both types of trust is to have a 
 
 Team > group of individual contributors. 
 
-Deep trust turns individual contributors into a team.
+Trust turns individual contributors into a team.
 
-To create deep trust, teams must survive both both success and failure.
+To create trust, teams must survive either success or failure.
+
+Teams can be short term. To create long term teams, they must survive both success and failure.
