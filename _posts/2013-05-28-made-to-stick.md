@@ -1,6 +1,6 @@
 ---
 title: Made to Stick
-subtitle: My notes on NY Times Bestseller, Made to Stick by Chip & Dan Heath.
+subtitle: My notes on the NY Times Bestseller by Chip & Dan Heath.
 layout: post
 ---
 
