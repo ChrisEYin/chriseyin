@@ -19,8 +19,8 @@
 }
 
 #photo-container {
-  position: absolute;
   /*border:1px solid red;*/
+  position: absolute;
 }
 
 #photo{
@@ -28,10 +28,10 @@
 }
 
 #about-text{
-  width:80%;
+  /*border:1px solid blue;*/
+  width:75%;
   margin-left:auto;
   position: relative;
-  /*border:1px solid blue;*/
   text-align: left;
   padding-left: 150px
 }
@@ -56,6 +56,25 @@
   margin-top: 25px;
 }
 
+#home-menu{
+  /*border: 1px solid red;*/
+  float: right;
+  margin-left:auto;
+  position: relative;
+  margin-top: -40px;
+  font-size: 20px;s
+}
+
+#home-menu ul, li{
+  text-decoration: none;
+  list-style-type: none;
+  display: inline;
+}
+
+#home-menu a{
+  padding: .1em .5em;
+}
+
 .blog-posts{
   /*border:1px solid red;*/
   margin-left: auto;
@@ -74,11 +93,11 @@
 }
 
 .page-container {
+  /*border:1px solid blue;*/
   margin-left: auto;
   margin-right: auto;
   text-align:center;
   margin-top: 5%;
-  /*border:1px solid blue;*/
   font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -128,6 +147,28 @@
 
 .disqus-container{
   margin-top: 50px;
+}
+
+/* Pages */
+
+#page-menu{
+  float: right;
+  padding-top: 20px;
+}
+
+#page-menu a{
+  padding: .1em .5em;
+}
+
+.page-container{
+  text-align: center;
+}
+
+.page-container hr{
+  width: 20%;
+  text-align: center;
+  display:block;
+  margin: 25px auto 25px auto;
 }
 
 /* Boostrap */

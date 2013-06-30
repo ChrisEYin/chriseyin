@@ -47,7 +47,6 @@ When you are knowingly wrong and your team sticks up for you, it instantly creat
 
 A good team will have one of these. But a great team will have both.
 
-
 **tl;dr**
 
 Team > group of individual contributors. 

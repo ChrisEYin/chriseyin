@@ -15,7 +15,7 @@ layout: default
       </p>
       <p>
         <h4>
-          24 years old living in San Diego, CA</a>.
+          24 years old in San Diego, CA</a>.
           Product manager at <a href = "http://www.coupa.com" title = "Coupa" target = "_blank">Coupa</a>. Writing about technology, startups, web/mobile products, and self improvement.
         </h4>
       </p>
@@ -35,18 +35,29 @@ layout: default
         <a href = "http://linkd.in/12HmYLM" title = "LinkedIn" target = "_blank" style = "text-decoration:none;">
           <img src = "https://s3.amazonaws.com/www.chrisyin.com/static/linkedin.png" border = "0" id = "icon">
         </a>
-        <a href = "http://on.fb.me/12Hn1ay" title = "Facebook" target = "_blank" style = "text-decoration:none;">
+        <!-- <a href = "http://on.fb.me/12Hn1ay" title = "Facebook" target = "_blank" style = "text-decoration:none;">
           <img src = "https://s3.amazonaws.com/www.chrisyin.com/static/facebook.png" border = "0" id = "icon">
-        </a>
+        </a> -->
       </div>
     </div>
   </div>
 </div>
 
 <div class = "blog-container">
-
-  <hr>
+<hr>
+  
   <h3>Blog</h3>
+  <div class = "home-menu-container">
+    <ul>
+      <div id = "home-menu">
+        <li><a href = "/tools" title = "Tools">Tools</a></li>
+        <li><a href = "/quotes" title = "Quotes">Quotes</a></li>
+        <li><a href = "/reading" title = "Reading">Reading</a></li>
+        <li><a href = "/media" title = "Media">Media</a></li>
+      </div>
+    </ul>
+    </div>
+  </div>
 
     {% for post in paginator.posts %}
       <div class="row-fluid">
