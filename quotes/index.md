@@ -20,7 +20,7 @@ layout: quotes
 
 ---
 
-###"I believe in strength over weakness"
+###"I believe in strength over lack of weakness"
 
 -Ben Horowitz  
 
