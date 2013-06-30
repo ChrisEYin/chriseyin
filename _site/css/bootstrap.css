@@ -8,14 +8,10 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
 
-.page-container {
-  margin-left: auto;
-  margin-right: auto;
-  text-align:center;
-  margin-top: 5%;
-  /*border:1px solid blue;*/
-  font-family: 'Source Sans Pro', sans-serif;
-}
+ /* My CSS, Boostrap Below %/
+
+
+/* Home Page */
 
 #header{
   /*border:1px solid black;*/
@@ -67,36 +63,30 @@
   margin-top: 40px;
 }
 
-#blog-content{
-  text-align: left;
-  margin-top: 25px;
-  font-size: 20px;
-  line-height: 1.35;
-}
-
-#blog-content p{
-  margin-top: 25px;
-  margin-bottom: 25px;
-}
-
 #date-link-spacing{
-  margin-top:-15px;
+  margin-top:-10px;
   margin-bottom:-10px;
-}
-
-#summary-container{
-  margin-top: 15px;
 }
 
 #summary-container p{
   font-size: 17.5px;
   line-height: 1.35;
-  margin-top: -15px;
+}
+
+.page-container {
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+  margin-top: 5%;
+  /*border:1px solid blue;*/
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .pagination-container{
   padding-top: 25px;
 }
+
+/* Posts */
 
 .post-header{
   /*border:1px solid red;*/
@@ -114,11 +104,33 @@
   width: 50px;
 }
 
+#blog-content{
+  text-align: left;
+  margin-top: 25px;
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+#blog-content p{
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.otherposts{
+  text-align: center;
+  margin-left: 0px;
+}
+
+.otherposts p{
+  font-size: 20px;
+  line-height: 2;
+}
+
 .disqus-container{
   margin-top: 50px;
 }
 
-/* Start of Boostrap */
+/* Boostrap */
 
 .clearfix {
   *zoom: 1;
