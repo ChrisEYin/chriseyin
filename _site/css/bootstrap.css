@@ -151,6 +151,7 @@
 
 /* Pages */
 
+/* Quotes */
 #page-menu{
   float: right;
   padding-top: 20px;
@@ -169,6 +170,22 @@
   text-align: center;
   display:block;
   margin: 25px auto 25px auto;
+}
+
+/*Tools*/
+.page-container img{
+  width: 150px;
+  height: 150px;
+}
+
+.page-container li{
+  display: inline-block;
+  padding: .2em 1em;
+}
+
+.page-container ol{
+  padding-right: 25px;
+  padding-bottom: 25px;
 }
 
 /* Boostrap */
