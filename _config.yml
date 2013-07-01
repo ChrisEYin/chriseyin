@@ -1,7 +1,8 @@
 name: "Chris Yin"
+
 description: "My Personal Site"
 
-url: "http://localhost:4000"
+url: "http://chrisyin.com"
 
 paginate: 10
 
