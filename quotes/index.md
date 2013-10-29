@@ -20,7 +20,14 @@ layout: quotes
 
 ---
 
-###"I believe in strength over lack of weakness"
+
+###"Pain + Reflection = Progress."
+
+-Ray Dalio  
+
+---
+
+###"I believe in strength over lack of weakness."
 
 -Ben Horowitz  
 

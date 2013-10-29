@@ -11,7 +11,7 @@ layout: none
  <id>http://www.chrisyin.com/</id>
  <author>
    <name>Chris Yin</name>
-   <email>christopher.e.yin@gmail.com</email>
+   <email>ceyin.818@gmail.com</email>
  </author>
 
  {% for post in site.posts %}
